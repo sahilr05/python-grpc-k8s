@@ -33,3 +33,7 @@ kubectl apply -f kubernetes/
 ```
 python python-grpc-k8s/client.py --server-ip $(minikube ip)
 ```
+
+## References
+* [GRPC Python](https://grpc.io/docs/languages/python/)
+* [CLevasseur/grpc-kubernetes](https://github.com/CLevasseur/grpc-kubernetes)
